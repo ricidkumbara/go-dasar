@@ -10,4 +10,10 @@ func main() {
 	var age int8
 	var address string
 	fmt.Println(age, address)
+
+	person := `
+		Ricid
+		Kumbara
+	`
+	fmt.Println(person)
 }
